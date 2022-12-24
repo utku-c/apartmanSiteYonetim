@@ -4,7 +4,7 @@
 
 Sakarya Üniversitesi bilgisayar mühendisliği bölümü tasarım çalışması uı tasarımları.
 
-- [YouTube Linki](https://www.youtube.com/watch?v=QIED0pfp79o)
+- [YouTube Linki](https://youtu.be/I9U9LUa20XE)
 
 
 <!-- 
